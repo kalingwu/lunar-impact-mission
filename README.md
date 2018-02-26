@@ -1,8 +1,6 @@
 # lunar-impact-mission
 A detailed conceptual analysis of the mission to launch a satellite from the earth to the moon, and let it crashed into and the moon.
 
-# lunar-impact-mission
-
 # Abstract
 The main aim of this report is to provide a detailed conceptual analysis of the mission to launch a satellite from the earth to the moon and let it crashed into and the moon. This allows the formation of a dust cloud, which can then be analyzed by other satellites.
 
